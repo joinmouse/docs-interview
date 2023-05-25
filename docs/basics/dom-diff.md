@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-## 什么是DOM diff
+# DOM diff 算法
 
 - 就是一个函数，我们称之为patch, patches = patch(oldVNode, newVNode)
 - patches就是要运行的DOM操作，可能如下
