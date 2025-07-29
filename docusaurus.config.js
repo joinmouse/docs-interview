@@ -67,7 +67,19 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Interview',
+            label: 'web前端',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: '服务端(Go/Node)',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: '区块链(chain)',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
